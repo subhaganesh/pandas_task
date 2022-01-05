@@ -1,6 +1,6 @@
 - 👋 Hi, I’m subhaganesh
 - 👀 I’m interested in  machine learning
-- 🌱 I’m currently learning python,data analytics using pandas, machine learning in guvi
+- 🌱 I’m currently learning python,data analytics using pandas, machine learning 
 - 💞️ I’m looking to collaborate on ML & data analytics projects 
 - 📫 How to reach me subhaganesh5@outlook.com
 
