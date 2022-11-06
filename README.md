@@ -1,3 +1,3 @@
-#pandas task
- This was a pandas task done during guvi course
- It contains 
+# pandas task
+
+This task was done during guvi course 
